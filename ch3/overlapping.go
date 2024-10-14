@@ -1,3 +1,6 @@
+// Advice : either never use append with a sub-slice or make sure that append
+// doesn't cause 
+
 package main
 
 import "fmt"
