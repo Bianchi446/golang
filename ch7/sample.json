@@ -1,0 +1,37 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "email": "johndoe@example.com",
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345"
+    },
+    "hobbies": [
+      "reading",
+      "hiking",
+      "coding"
+    ],
+    "isEmployed": true,
+    "employment": {
+      "position": "Software Engineer",
+      "company": "TechCorp",
+      "yearsOfExperience": 5
+    },
+    "skills": [
+      {
+        "name": "Go",
+        "level": "intermediate"
+      },
+      {
+        "name": "Python",
+        "level": "advanced"
+      },
+      {
+        "name": "JavaScript",
+        "level": "advanced"
+      }
+    ]
+  }
+  
